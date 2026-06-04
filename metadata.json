@@ -1,0 +1,6 @@
+{
+  "name": "Chamisul",
+  "description": "할 일은 빠르게, 술자리는 즐겁게! 대학생 필수 할 일 관리 파트너 Chamisul",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
